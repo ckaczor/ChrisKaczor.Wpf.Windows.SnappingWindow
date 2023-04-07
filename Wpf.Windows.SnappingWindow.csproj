@@ -13,6 +13,7 @@
 		<PackageId>ChrisKaczor.Wpf.Windows.SnappingWindow</PackageId>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+		<AssemblyName>ChrisKaczor.Wpf.Windows.SnappingWindow</AssemblyName>
 	</PropertyGroup>
 	<ItemGroup>
 		<PackageReference Include="JetBrains.Annotations" Version="2022.3.1" />
