@@ -4,7 +4,7 @@ namespace ChrisKaczor.Wpf.Windows;
 
 public class WindowInformation
 {
-    private nint Handle { get; }
+    public nint Handle { get; }
     public Rectangle Location { get; }
 
     public WindowInformation(nint handle)
